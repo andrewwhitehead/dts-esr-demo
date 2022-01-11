@@ -18,7 +18,8 @@
     "oidc-client": "^1.11.5",
     "qrcode": "^1.4.4",
     "roboto-fontface": "*",
-    "survey-vue": "^1.8.46",
+    "survey-core": "^1.8.52",
+    "survey-vue": "^1.8.52",
     "vue": "^2.6.12",
     "vue-class-component": "^7.2.6",
     "vue-property-decorator": "^8.5.1",
@@ -30,6 +31,7 @@
   },
   "devDependencies": {
     "@fortawesome/fontawesome-free": "^5.15.3",
+    "@types/qrcode": "^1.4.2",
     "@typescript-eslint/eslint-plugin": "^2.34.0",
     "@typescript-eslint/parser": "^2.34.0",
     "@vue/cli-plugin-babel": "^4.5.12",
