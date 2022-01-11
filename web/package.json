@@ -16,7 +16,7 @@
     "core-js": "^3.11.2",
     "jquery": "^3.6.0",
     "oidc-client": "^1.11.5",
-    "qrcode": "^1.4.4",
+    "qrcode": "^1.5.0",
     "roboto-fontface": "*",
     "survey-core": "^1.8.52",
     "survey-vue": "^1.8.52",
